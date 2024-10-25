@@ -1,0 +1,2 @@
+# TradingViewScraper
+tradingview.com Scraper 
